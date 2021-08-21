@@ -1,2 +1,2 @@
-# HtmlHintsJulyWorkshop
-Assignments
+# workshop
+Html Hints Workshop
